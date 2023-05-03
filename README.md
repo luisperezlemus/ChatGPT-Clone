@@ -18,3 +18,5 @@ You may also see any lint errors in the console.
 
 Runs the backend server using nodemon which automatically restarts the application when file changes
 are detected, this is useful for development.
+
+This runs on [http://localhost:8000](http://localhost:8000).
